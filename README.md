@@ -15,9 +15,9 @@ Pewlett-Hackard is a large company with thousands of employees and they are prep
 [retiring_titles.csv](https://github.com/jmackitty/Pewlett-Hackard-Analysis/files/8794848/retiring_titles.csv)
 
 ## Summary
-The amount of eligible employees for the mentorship program is 1549.
+The amount of eligible employees for the mentorship program is 1549.--
 <img width="56" alt="mentorship eligible" src="https://user-images.githubusercontent.com/99056132/170904983-0fb32c29-0b84-4d75-a885-806e074a880f.png">
-The amount of job titles that will need to be filled are 72458.
+The amount of job titles that will need to be filled are 72458.--
 <img width="51" alt="unique titles to fill" src="https://user-images.githubusercontent.com/99056132/170905313-9e27628f-fbc7-420c-8714-0c7d3ddf566c.png">
 There will be 70,909 jobs that need to be filled due to retirements if the company is able to get every eligible retiree to participate in the mentorship program.
 Pewlett Hackard will need to be start the job recruiting and hiring process immediately to fill the upcoming vacant roles, and they will need to expand their criteria for the mentorship program to include more retirees. They will also need to look at their current employees to see if job rolls can be combined based on departments, and if some employees have experience in other departments. They will need to exhaust all their options in order to fill the amount of job openings that will be available.
