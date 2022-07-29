@@ -22,18 +22,32 @@ The amount of job titles that will need to be filled are 72458.
 There will be 70,909 jobs that need to be filled due to retirements if the company is able to get every eligible retiree to participate in the mentorship program.
 Pewlett Hackard will need to be start the job recruiting and hiring process immediately to fill the upcoming vacant roles, and they will need to expand their criteria for the mentorship program to include more retirees. They will also need to look at their current employees to see if job rolls can be combined based on departments, and if some employees have experience in other departments. They will need to exhaust all their options in order to fill the amount of job openings that will be available.
 
-#Resources:
-PostgreSQL 11/ pgadmin
+# Resources:
+PostgreSQL 11/ pgAdmin
+
 [departments.csv](https://github.com/jmackitty/Pewlett-Hackard-Analysis/files/8794839/departments.csv)
+
 [dept_emp.csv](https://github.com/jmackitty/Pewlett-Hackard-Analysis/files/8794840/dept_emp.csv)
+
 [dept_manager.csv](https://github.com/jmackitty/Pewlett-Hackard-Analysis/files/8794841/dept_manager.csv)
+
 [emp_dept_count.csv](https://github.com/jmackitty/Pewlett-Hackard-Analysis/files/8794842/emp_dept_count.csv)
+
 [emp_info.csv](https://github.com/jmackitty/Pewlett-Hackard-Analysis/files/8794843/emp_info.csv)
+
 [employees.csv](https://github.com/jmackitty/Pewlett-Hackard-Analysis/files/8794844/employees.csv)
+
 [mentorship_eligibility.csv](https://github.com/jmackitty/Pewlett-Hackard-Analysis/files/8794845/mentorship_eligibility.csv)
+
 [retirement_info.csv](https://github.com/jmackitty/Pewlett-Hackard-Analysis/files/8794846/retirement_info.csv)
+
 [retirement_titles.csv](https://github.com/jmackitty/Pewlett-Hackard-Analysis/files/8794847/retirement_titles.csv)
+
 [retiring_titles.csv](https://github.com/jmackitty/Pewlett-Hackard-Analysis/files/8794848/retiring_titles.csv)
+
 [salaries.csv](https://github.com/jmackitty/Pewlett-Hackard-Analysis/files/8794849/salaries.csv)
+
 [titles.csv](https://github.com/jmackitty/Pewlett-Hackard-Analysis/files/8794850/titles.csv)
+
 [unique_titles.csv](https://github.com/jmackitty/Pewlett-Hackard-Analysis/files/8794851/unique_titles.csv)
+
